@@ -1,0 +1,632 @@
+[
+  {
+    "route_code": "AUS_PAR",
+    "name": "Australia to Paradip",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Paradip",
+    "distance_nm": 4200,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 12,
+    "historical_avg_rate": 13.0,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_VIZ",
+    "name": "Australia to Visakhapatnam",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Visakhapatnam",
+    "distance_nm": 4450,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 13,
+    "historical_avg_rate": 13.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_GAN",
+    "name": "Australia to Gangavaram",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Gangavaram",
+    "distance_nm": 4480,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 13,
+    "historical_avg_rate": 13.5,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_GOP",
+    "name": "Australia to Gopalpur",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Gopalpur",
+    "distance_nm": 4320,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 13,
+    "historical_avg_rate": 13.2,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_DHA",
+    "name": "Australia to Dhamra",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Dhamra",
+    "distance_nm": 4120,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 12,
+    "historical_avg_rate": 12.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_SAG",
+    "name": "Australia to Sagar-Sandheads",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Sagar-Sandheads",
+    "distance_nm": 4650,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 14,
+    "historical_avg_rate": 14.3,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "AUS_HAL",
+    "name": "Australia to Haldia",
+    "origin_region": "Australia",
+    "origin": "Newcastle",
+    "destination_region": "India East Coast",
+    "destination": "Haldia",
+    "distance_nm": 4720,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 14,
+    "historical_avg_rate": 14.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_PAR",
+    "name": "US to Paradip",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Paradip",
+    "distance_nm": 10500,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 31,
+    "historical_avg_rate": 15.0,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_VIZ",
+    "name": "US to Visakhapatnam",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Visakhapatnam",
+    "distance_nm": 10750,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 32,
+    "historical_avg_rate": 15.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_GAN",
+    "name": "US to Gangavaram",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Gangavaram",
+    "distance_nm": 10780,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 32,
+    "historical_avg_rate": 15.5,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_GOP",
+    "name": "US to Gopalpur",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Gopalpur",
+    "distance_nm": 10620,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 31,
+    "historical_avg_rate": 15.2,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_DHA",
+    "name": "US to Dhamra",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Dhamra",
+    "distance_nm": 10420,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 31,
+    "historical_avg_rate": 14.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_SAG",
+    "name": "US to Sagar-Sandheads",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Sagar-Sandheads",
+    "distance_nm": 10950,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 32,
+    "historical_avg_rate": 16.3,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "USA_HAL",
+    "name": "US to Haldia",
+    "origin_region": "US",
+    "origin": "US Gulf",
+    "destination_region": "India East Coast",
+    "destination": "Haldia",
+    "distance_nm": 11020,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 32,
+    "historical_avg_rate": 16.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_PAR",
+    "name": "Mozambique to Paradip",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Paradip",
+    "distance_nm": 6500,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 19,
+    "historical_avg_rate": 13.5,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_VIZ",
+    "name": "Mozambique to Visakhapatnam",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Visakhapatnam",
+    "distance_nm": 6750,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 20,
+    "historical_avg_rate": 13.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_GAN",
+    "name": "Mozambique to Gangavaram",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Gangavaram",
+    "distance_nm": 6780,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 20,
+    "historical_avg_rate": 14.0,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_GOP",
+    "name": "Mozambique to Gopalpur",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Gopalpur",
+    "distance_nm": 6620,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 19,
+    "historical_avg_rate": 13.7,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_DHA",
+    "name": "Mozambique to Dhamra",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Dhamra",
+    "distance_nm": 6420,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 19,
+    "historical_avg_rate": 13.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_SAG",
+    "name": "Mozambique to Sagar-Sandheads",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Sagar-Sandheads",
+    "distance_nm": 6950,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 20,
+    "historical_avg_rate": 14.8,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "MOZ_HAL",
+    "name": "Mozambique to Haldia",
+    "origin_region": "Mozambique",
+    "origin": "Nacala",
+    "destination_region": "India East Coast",
+    "destination": "Haldia",
+    "distance_nm": 7020,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 21,
+    "historical_avg_rate": 14.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_PAR",
+    "name": "Russia to Paradip",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Paradip",
+    "distance_nm": 7200,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 21,
+    "historical_avg_rate": 12.5,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_VIZ",
+    "name": "Russia to Visakhapatnam",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Visakhapatnam",
+    "distance_nm": 7450,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 22,
+    "historical_avg_rate": 12.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_GAN",
+    "name": "Russia to Gangavaram",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Gangavaram",
+    "distance_nm": 7480,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 22,
+    "historical_avg_rate": 13.0,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_GOP",
+    "name": "Russia to Gopalpur",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Gopalpur",
+    "distance_nm": 7320,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 21,
+    "historical_avg_rate": 12.7,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_DHA",
+    "name": "Russia to Dhamra",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Dhamra",
+    "distance_nm": 7120,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 21,
+    "historical_avg_rate": 12.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_SAG",
+    "name": "Russia to Sagar-Sandheads",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Sagar-Sandheads",
+    "distance_nm": 7650,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 22,
+    "historical_avg_rate": 13.8,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "RUS_HAL",
+    "name": "Russia to Haldia",
+    "origin_region": "Russia",
+    "origin": "Taman",
+    "destination_region": "India East Coast",
+    "destination": "Haldia",
+    "distance_nm": 7720,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 23,
+    "historical_avg_rate": 13.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_PAR",
+    "name": "Indonesia to Paradip",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Paradip",
+    "distance_nm": 3200,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 9,
+    "historical_avg_rate": 9.5,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_VIZ",
+    "name": "Indonesia to Visakhapatnam",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Visakhapatnam",
+    "distance_nm": 3450,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 10,
+    "historical_avg_rate": 9.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_GAN",
+    "name": "Indonesia to Gangavaram",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Gangavaram",
+    "distance_nm": 3480,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 10,
+    "historical_avg_rate": 10.0,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_GOP",
+    "name": "Indonesia to Gopalpur",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Gopalpur",
+    "distance_nm": 3320,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 10,
+    "historical_avg_rate": 9.7,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_DHA",
+    "name": "Indonesia to Dhamra",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Dhamra",
+    "distance_nm": 3120,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 9,
+    "historical_avg_rate": 9.4,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_SAG",
+    "name": "Indonesia to Sagar-Sandheads",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Sagar-Sandheads",
+    "distance_nm": 3650,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 11,
+    "historical_avg_rate": 10.8,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  },
+  {
+    "route_code": "IDN_HAL",
+    "name": "Indonesia to Haldia",
+    "origin_region": "Indonesia",
+    "origin": "Taboneo",
+    "destination_region": "India East Coast",
+    "destination": "Haldia",
+    "distance_nm": 3720,
+    "vessel_class": "Auto",
+    "canal_transit": null,
+    "typical_voyage_days": 11,
+    "historical_avg_rate": 10.9,
+    "rate_unit": "USD/tonne",
+    "supported_materials": [
+      "Coal",
+      "Steel"
+    ]
+  }
+]

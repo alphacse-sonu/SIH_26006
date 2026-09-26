@@ -1,0 +1,135 @@
+[
+  {
+    "class": "Capesize",
+    "subtype": "Standard",
+    "dwt_min": 170000,
+    "dwt_max": 210000,
+    "typical_dwt": 180000,
+    "max_draft_m": 18.2,
+    "beam_m": 45.0,
+    "loa_m": 292.0,
+    "tpc_curve": {
+      "draft_m": [10.0, 12.0, 14.0, 16.0, 17.0, 18.0, 18.2],
+      "tpc_tonnes": [78.5, 82.3, 86.1, 89.4, 91.0, 92.5, 93.0]
+    },
+    "daily_operating_cost_usd": 8500,
+    "daily_charter_rate_usd": 22000,
+    "speed_knots": 14.5,
+    "fuel_consumption_mt_day": 55,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Capesize",
+    "subtype": "Newcastlemax",
+    "dwt_min": 200000,
+    "dwt_max": 210000,
+    "typical_dwt": 208000,
+    "max_draft_m": 18.5,
+    "beam_m": 47.0,
+    "loa_m": 300.0,
+    "tpc_curve": {
+      "draft_m": [10.0, 12.0, 14.0, 16.0, 17.0, 18.0, 18.5],
+      "tpc_tonnes": [85.0, 89.2, 93.5, 97.1, 99.0, 100.8, 101.5]
+    },
+    "daily_operating_cost_usd": 9200,
+    "daily_charter_rate_usd": 24000,
+    "speed_knots": 14.0,
+    "fuel_consumption_mt_day": 60,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Panamax",
+    "subtype": "Standard",
+    "dwt_min": 65000,
+    "dwt_max": 85000,
+    "typical_dwt": 75000,
+    "max_draft_m": 14.5,
+    "beam_m": 32.3,
+    "loa_m": 229.0,
+    "tpc_curve": {
+      "draft_m": [8.0, 10.0, 11.0, 12.0, 13.0, 14.0, 14.5],
+      "tpc_tonnes": [52.0, 55.8, 57.5, 59.2, 60.8, 62.1, 62.8]
+    },
+    "daily_operating_cost_usd": 6800,
+    "daily_charter_rate_usd": 15000,
+    "speed_knots": 14.0,
+    "fuel_consumption_mt_day": 35,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Panamax",
+    "subtype": "Kamsarmax",
+    "dwt_min": 80000,
+    "dwt_max": 85000,
+    "typical_dwt": 82000,
+    "max_draft_m": 14.5,
+    "beam_m": 32.3,
+    "loa_m": 229.0,
+    "tpc_curve": {
+      "draft_m": [8.0, 10.0, 11.0, 12.0, 13.0, 14.0, 14.5],
+      "tpc_tonnes": [54.5, 58.2, 60.0, 61.8, 63.5, 65.0, 65.5]
+    },
+    "daily_operating_cost_usd": 7000,
+    "daily_charter_rate_usd": 16000,
+    "speed_knots": 14.0,
+    "fuel_consumption_mt_day": 37,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Supramax",
+    "subtype": "Standard",
+    "dwt_min": 50000,
+    "dwt_max": 65000,
+    "typical_dwt": 58000,
+    "max_draft_m": 13.5,
+    "beam_m": 32.2,
+    "loa_m": 190.0,
+    "tpc_curve": {
+      "draft_m": [7.0, 9.0, 10.0, 11.0, 12.0, 13.0, 13.5],
+      "tpc_tonnes": [42.0, 45.5, 47.2, 48.8, 50.3, 51.5, 52.0]
+    },
+    "daily_operating_cost_usd": 6200,
+    "daily_charter_rate_usd": 13000,
+    "speed_knots": 14.5,
+    "fuel_consumption_mt_day": 30,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Supramax",
+    "subtype": "Ultramax",
+    "dwt_min": 60000,
+    "dwt_max": 65000,
+    "typical_dwt": 64000,
+    "max_draft_m": 14.0,
+    "beam_m": 32.3,
+    "loa_m": 199.0,
+    "tpc_curve": {
+      "draft_m": [7.0, 9.0, 10.0, 11.0, 12.0, 13.0, 14.0],
+      "tpc_tonnes": [44.0, 47.8, 49.5, 51.2, 52.8, 54.2, 55.5]
+    },
+    "daily_operating_cost_usd": 6500,
+    "daily_charter_rate_usd": 14000,
+    "speed_knots": 14.5,
+    "fuel_consumption_mt_day": 32,
+    "bunker_type": "VLSFO"
+  },
+  {
+    "class": "Handysize",
+    "subtype": "Standard",
+    "dwt_min": 25000,
+    "dwt_max": 40000,
+    "typical_dwt": 33000,
+    "max_draft_m": 11.5,
+    "beam_m": 27.0,
+    "loa_m": 170.0,
+    "tpc_curve": {
+      "draft_m": [6.0, 7.5, 8.5, 9.5, 10.5, 11.0, 11.5],
+      "tpc_tonnes": [30.0, 32.5, 34.0, 35.5, 36.8, 37.5, 38.0]
+    },
+    "daily_operating_cost_usd": 5500,
+    "daily_charter_rate_usd": 11000,
+    "speed_knots": 14.0,
+    "fuel_consumption_mt_day": 25,
+    "bunker_type": "VLSFO"
+  }
+]
